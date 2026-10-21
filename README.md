@@ -23,6 +23,10 @@
 
 ### 🔬 Сравнение генераций
 
+|               AiAvatar.ru (Kandinsky)               |                      GigaChat                       |
+| :-------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------: |
+| ![aiavatar_combined](./output/task2_aiavatarru.png) | ![gigachat_barista](./output/task2_1_gigachat.jpeg) | ![alice_var1](./output/task2_alice_var1.jpeg) |
+
 |               AiAvatar.ru (Kandinsky)               |                      GigaChat                       |               Alice (YandexART)               |
 | :-------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------: |
 | ![aiavatar_combined](./output/task2_aiavatarru.png) | ![gigachat_barista](./output/task2_1_gigachat.jpeg) | ![alice_var1](./output/task2_alice_var1.jpeg) |
