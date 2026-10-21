@@ -29,7 +29,7 @@
 
 #### Alice (YandexART)
 
-| ![aiavatar_combined](./output/task2_alice_var1.png) | ![gigachat_barista](./output/task2_alice_var2.jpeg) | ![alice_var1](./output/task2_alice_var3.jpeg) | ![alice_var1](./output/task2_alice_var4.jpeg) |
+| ![alice_var1](./output/task2_alice_var1.png) | ![galice_var2](./output/task2_alice_var2.jpeg) | ![alice_var3](./output/task2_alice_var3.jpeg) | ![alice_var4](./output/task2_alice_var4.jpeg) |
 
 🏆 **Выбор:** `Alice (YandexART)`  
 💡 **Обоснование:** Единственная модель, которая строго соблюдала оба промпта и создала консистентные пары изображений. Сгенерировала 4 варианта пар, из которых можно выбрать идеальное сочетание.
