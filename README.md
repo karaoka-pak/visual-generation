@@ -45,9 +45,9 @@
 
 ### 🔬 Сравнение генераций
 
-|                    AiAvatar.ru                     |                      GigaChat                       |               Alice (YandexART)               |
-| :------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------: |
-| ![sticker_aiavatar](./output/sticker_aiavatar.png) | ![sticker_gigachat](./output/sticker_gigachat.jpeg) | ![sticker_alice](./output/sticker_alice.jpeg) |
+|                     AiAvatar.ru                     |                       GigaChat                       |               Alice (YandexART)                |
+| :-------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------: |
+| ![sticker_aiavatar](./output/stickers_avatarru.png) | ![sticker_gigachat](./output/stickers_gigachat.jpeg) | ![sticker_alice](./output/stickers_alice.jpeg) |
 
 🏆 **Выбор:** `Ничья: AiAvatar.ru и Alice (YandexART)`  
 💡 **Обоснование:** Обе модели создали эстетичных, милых и качественных персонажей в стиле каваи. Выбор между ними субъективен и зависит от вкусовых предпочтений (AiAvatar выдал более мягкие градиенты, Alice — более четкие векторные контуры).
