@@ -9,9 +9,17 @@
 
 ### 🔬 Сравнение генераций
 
-|                      AiAvatar.ru                      |                   Alice (YandexART)                   |                       GigaChat                       |
-| :---------------------------------------------------: | :---------------------------------------------------: | :--------------------------------------------------: |
-| ![aiavatar_cover](./output/cap_coffee_aiavatarru.png) | ![alice_cover](./output/cap_coffee_Alice_yandex.jpeg) | ![gigachat_cover](./output/cap_coffee_gigachat.jpeg) |
+|                      AiAvatar.ru                      |
+| :---------------------------------------------------: |
+| ![aiavatar_cover](./output/cap_coffee_aiavatarru.png) |
+
+|                   Alice (YandexART)                   |
+| :---------------------------------------------------: |
+| ![alice_cover](./output/cap_coffee_Alice_yandex.jpeg) |
+
+|                       GigaChat                       |
+| :--------------------------------------------------: |
+| ![gigachat_cover](./output/cap_coffee_gigachat.jpeg) |
 
 **Выбор:** `Ничья: GigaChat и Alice (YandexART)`  
 💡 **Обоснование:** Обе модели отлично справились с передачей атмосферы уюта и натуральности. Цветовая палитра (землистые тона, зеленый, коричневый) соблюдена, композиция с чашкой и многоразовым стаканом выглядит эстетично и коммерчески привлекательно. Выбор между ними субъективен.
