@@ -4,9 +4,9 @@
 
 ### 🔬 Сравнение генераций
 
-|                      AiAvatar.ru                       |                   Alice (YandexART)                    |                       GigaChat                        |
-| :----------------------------------------------------: | :----------------------------------------------------: | :---------------------------------------------------: |
-| ![aiavatar_cover](../output/cap_coffee_aiavatarru.png) | ![alice_cover](../output/cap_coffee_Alice_yandex.jpeg) | ![gigachat_cover](../output/cap_coffee_gigachat.jpeg) |
+|                     AiAvatar.ru                      |                   Alice (YandexART)                   |                       GigaChat                       |
+| :--------------------------------------------------: | :---------------------------------------------------: | :--------------------------------------------------: |
+| ![aiavatar_cover]./output/cap_coffee_aiavatarru.png) | ![alice_cover](./output/cap_coffee_Alice_yandex.jpeg) | ![gigachat_cover](./output/cap_coffee_gigachat.jpeg) |
 
 **Выбор:** `Ничья: GigaChat и Alice (YandexART)`  
 💡 **Обоснование:** Обе модели отлично справились с передачей атмосферы уюта и натуральности. Цветовая палитра (землистые тона, зеленый, коричневый) соблюдена, композиция с чашкой и многоразовым стаканом выглядит эстетично и коммерчески привлекательно. Выбор между ними субъективен.
@@ -23,9 +23,9 @@
 
 ### 🔬 Сравнение генераций
 
-|               AiAvatar.ru (Kandinsky)                |                       GigaChat                       |               Alice (YandexART)                |
-| :--------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------: |
-| ![aiavatar_combined](../output/task2_aiavatarru.png) | ![gigachat_barista](../output/task2_1_gigachat.jpeg) | ![alice_var1](../output/task2_alice_var1.jpeg) |
+|               AiAvatar.ru (Kandinsky)               |                      GigaChat                       |               Alice (YandexART)               |
+| :-------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------: |
+| ![aiavatar_combined](./output/task2_aiavatarru.png) | ![gigachat_barista](./output/task2_1_gigachat.jpeg) | ![alice_var1](./output/task2_alice_var1.jpeg) |
 
 🏆 **Выбор:** `Alice (YandexART)`  
 💡 **Обоснование:** Единственная модель, которая строго соблюдала оба промпта и создала консистентные пары изображений. Сгенерировала 4 варианта пар, из которых можно выбрать идеальное сочетание.
@@ -41,9 +41,9 @@
 
 ### 🔬 Сравнение генераций
 
-|                     AiAvatar.ru                     |                       GigaChat                       |               Alice (YandexART)                |
-| :-------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------: |
-| ![sticker_aiavatar](../output/sticker_aiavatar.png) | ![sticker_gigachat](../output/sticker_gigachat.jpeg) | ![sticker_alice](../output/sticker_alice.jpeg) |
+|                    AiAvatar.ru                     |                      GigaChat                       |               Alice (YandexART)               |
+| :------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------: |
+| ![sticker_aiavatar](./output/sticker_aiavatar.png) | ![sticker_gigachat](./output/sticker_gigachat.jpeg) | ![sticker_alice](./output/sticker_alice.jpeg) |
 
 🏆 **Выбор:** `Ничья: AiAvatar.ru и Alice (YandexART)`  
 💡 **Обоснование:** Обе модели создали эстетичных, милых и качественных персонажей в стиле каваи. Выбор между ними субъективен и зависит от вкусовых предпочтений (AiAvatar выдал более мягкие градиенты, Alice — более четкие векторные контуры).
