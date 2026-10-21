@@ -23,13 +23,14 @@
 
 ### 🔬 Сравнение генераций
 
-|               AiAvatar.ru (Kandinsky)               |                      GigaChat                       |
-| :-------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------: |
-| ![aiavatar_combined](./output/task2_aiavatarru.png) | ![gigachat_barista](./output/task2_1_gigachat.jpeg) | ![alice_var1](./output/task2_alice_var1.jpeg) |
+|               AiAvatar.ru (Kandinsky)               |                                                 GigaChat                                                  |
+| :-------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+| ![aiavatar_combined](./output/task2_aiavatarru.png) | ![gigachat_barista1](./output/task2_1_gigachat.jpeg) ![gigachat_barista2](./output/task2_2_gigachat.jpeg) |
 
-|               AiAvatar.ru (Kandinsky)               |                      GigaChat                       |               Alice (YandexART)               |
-| :-------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------: |
-| ![aiavatar_combined](./output/task2_aiavatarru.png) | ![gigachat_barista](./output/task2_1_gigachat.jpeg) | ![alice_var1](./output/task2_alice_var1.jpeg) |
+#### Alice (YandexART)
+
+| :-------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: |
+| ![aiavatar_combined](./output/task2_alice_var1.png) | ![gigachat_barista](./output/task2_alice_var2.jpeg) | ![alice_var1](./output/task2_alice_var3.jpeg) | ![alice_var1](./output/task2_alice_var4.jpeg) |
 
 🏆 **Выбор:** `Alice (YandexART)`  
 💡 **Обоснование:** Единственная модель, которая строго соблюдала оба промпта и создала консистентные пары изображений. Сгенерировала 4 варианта пар, из которых можно выбрать идеальное сочетание.
