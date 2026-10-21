@@ -29,7 +29,6 @@
 
 #### Alice (YandexART)
 
-| :-------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: |
 | ![aiavatar_combined](./output/task2_alice_var1.png) | ![gigachat_barista](./output/task2_alice_var2.jpeg) | ![alice_var1](./output/task2_alice_var3.jpeg) | ![alice_var1](./output/task2_alice_var4.jpeg) |
 
 🏆 **Выбор:** `Alice (YandexART)`  
